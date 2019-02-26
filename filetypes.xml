@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="html&#13;&#10;" type="HTML" />
       <mapping pattern="manifesst" type="PLAIN_TEXT" />
+      <mapping pattern=".nfs0000000000020c1200000004" type="PLAIN_TEXT" />
       <mapping pattern="test-limovtc" type="PLAIN_TEXT" />
       <mapping pattern="limovtc2" type="PLAIN_TEXT" />
       <mapping pattern="t-limovtc" type="PLAIN_TEXT" />
@@ -24,10 +25,10 @@
       <mapping pattern="trash" type="PLAIN_TEXT" />
       <mapping ext="vierge" type="PLAIN_TEXT" />
       <mapping ext="014213245611111" type="PLAIN_TEXT" />
-      <mapping ext="051855252600015" type="PLAIN_TEXT" />
       <mapping ext="082584341411111" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="new" type="PLAIN_TEXT" />
+      <mapping ext="ppk" type="PLAIN_TEXT" />
       <mapping ext="1542720661" type="PLAIN_TEXT" />
       <mapping ext="tml" type="PLAIN_TEXT" />
       <mapping ext="sogenactif" type="PLAIN_TEXT" />
@@ -36,7 +37,7 @@
       <mapping ext="audrey" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
-      <mapping ext="ppk" type="PLAIN_TEXT" />
+      <mapping ext="051855252600015" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
