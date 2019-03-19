@@ -2,17 +2,18 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="html&#13;&#10;" type="HTML" />
-      <mapping pattern="ovh1" type="PLAIN_TEXT" />
       <mapping pattern="manifesst" type="PLAIN_TEXT" />
       <mapping pattern=".nfs0000000000020c1200000004" type="PLAIN_TEXT" />
       <mapping pattern="test-limovtc" type="PLAIN_TEXT" />
       <mapping pattern="limovtc2" type="PLAIN_TEXT" />
+      <mapping pattern="response" type="PLAIN_TEXT" />
+      <mapping pattern="MigreMajGds" type="PLAIN_TEXT" />
       <mapping pattern="t-limovtc" type="PLAIN_TEXT" />
       <mapping pattern="way-serv-ovh-1" type="PLAIN_TEXT" />
       <mapping pattern="request" type="PLAIN_TEXT" />
-      <mapping pattern="zend_cache---Zaf_C_Soc_Constante" type="PLAIN_TEXT" />
+      <mapping pattern="ovh1" type="PLAIN_TEXT" />
       <mapping pattern="ssh_4096_openssh" type="PLAIN_TEXT" />
-      <mapping pattern="response" type="PLAIN_TEXT" />
+      <mapping pattern="zend_cache---Zaf_C_Soc_Constante" type="PLAIN_TEXT" />
       <mapping pattern="1528117773-52002" type="PLAIN_TEXT" />
       <mapping pattern="parmcom" type="PLAIN_TEXT" />
       <mapping pattern=".nfs000000000000f1af00000001" type="PLAIN_TEXT" />
@@ -27,10 +28,10 @@
       <mapping pattern="trash" type="PLAIN_TEXT" />
       <mapping ext="vierge" type="PLAIN_TEXT" />
       <mapping ext="014213245611111" type="PLAIN_TEXT" />
+      <mapping ext="051855252600015" type="PLAIN_TEXT" />
       <mapping ext="082584341411111" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="new" type="PLAIN_TEXT" />
-      <mapping ext="ppk" type="PLAIN_TEXT" />
       <mapping ext="1542720661" type="PLAIN_TEXT" />
       <mapping ext="tml" type="PLAIN_TEXT" />
       <mapping ext="sogenactif" type="PLAIN_TEXT" />
@@ -40,7 +41,7 @@
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
-      <mapping ext="051855252600015" type="PLAIN_TEXT" />
+      <mapping ext="ppk" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
