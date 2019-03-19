@@ -6,6 +6,7 @@
       <mapping pattern=".nfs0000000000020c1200000004" type="PLAIN_TEXT" />
       <mapping pattern="test-limovtc" type="PLAIN_TEXT" />
       <mapping pattern="limovtc2" type="PLAIN_TEXT" />
+      <mapping pattern="limovtc-8" type="PLAIN_TEXT" />
       <mapping pattern="response" type="PLAIN_TEXT" />
       <mapping pattern="MigreMajGds" type="PLAIN_TEXT" />
       <mapping pattern="t-limovtc" type="PLAIN_TEXT" />
