@@ -40,6 +40,8 @@
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="audrey" type="PLAIN_TEXT" />
+      <mapping ext="1553614861" type="PLAIN_TEXT" />
+      <mapping ext="1553614925" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
