@@ -19,6 +19,7 @@
       <mapping pattern="parmcom" type="PLAIN_TEXT" />
       <mapping pattern=".nfs000000000000f1af00000001" type="PLAIN_TEXT" />
       <mapping pattern=".pgbomit" type="PLAIN_TEXT" />
+      <mapping pattern=".nfs0000000000024cad00000001" type="PLAIN_TEXT" />
       <mapping pattern="toto" type="PLAIN_TEXT" />
       <mapping pattern="manifest" type="PLAIN_TEXT" />
       <mapping pattern="Zaf_Composant_CarteBancaire_Systempay" type="PLAIN_TEXT" />
