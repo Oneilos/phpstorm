@@ -10,6 +10,7 @@
       <mapping pattern="way-lamp-onet-4" type="PLAIN_TEXT" />
       <mapping pattern="limovtc-8" type="PLAIN_TEXT" />
       <mapping pattern="response" type="PLAIN_TEXT" />
+      <mapping pattern="way-lamp-ovh-2" type="PLAIN_TEXT" />
       <mapping pattern="MigreMajGds" type="PLAIN_TEXT" />
       <mapping pattern="t-limovtc" type="PLAIN_TEXT" />
       <mapping pattern="way-serv-ovh-1" type="PLAIN_TEXT" />
