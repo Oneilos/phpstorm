@@ -7,6 +7,7 @@
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="test-limovtc" type="PLAIN_TEXT" />
       <mapping pattern="limovtc2" type="PLAIN_TEXT" />
+      <mapping pattern="way-lamp-onet-4" type="PLAIN_TEXT" />
       <mapping pattern="limovtc-8" type="PLAIN_TEXT" />
       <mapping pattern="response" type="PLAIN_TEXT" />
       <mapping pattern="MigreMajGds" type="PLAIN_TEXT" />
@@ -50,6 +51,7 @@
       <mapping ext="1554734881" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="1554734942" type="PLAIN_TEXT" />
+      <mapping ext="1557764701" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="051855252600015" type="PLAIN_TEXT" />
