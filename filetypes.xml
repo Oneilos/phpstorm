@@ -4,9 +4,13 @@
       <mapping ext="html&#13;&#10;" type="HTML" />
       <mapping pattern="manifesst" type="PLAIN_TEXT" />
       <mapping pattern=".nfs0000000000020c1200000004" type="PLAIN_TEXT" />
+      <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="test-limovtc" type="PLAIN_TEXT" />
       <mapping pattern="limovtc2" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess.swp" type="PLAIN_TEXT" />
+      <mapping pattern="way-lamp-onet-4" type="PLAIN_TEXT" />
       <mapping pattern="limovtc-8" type="PLAIN_TEXT" />
+      <mapping pattern="way-lamp-ovh-2" type="PLAIN_TEXT" />
       <mapping pattern="MigreMajGds" type="PLAIN_TEXT" />
       <mapping pattern="t-limovtc" type="PLAIN_TEXT" />
       <mapping pattern="way-serv-ovh-1" type="PLAIN_TEXT" />
@@ -26,11 +30,13 @@
       <mapping pattern="Zaf_Composant_CarteBancaire_Systempay" type="PLAIN_TEXT" />
       <mapping pattern="blackliste-mail-antispam" type="PLAIN_TEXT" />
       <mapping pattern="pathfile" type="PLAIN_TEXT" />
+      <mapping pattern="way-lamp-onet-10" type="PLAIN_TEXT" />
       <mapping pattern="zend_cache---internal-metadatas---Zaf_C_Soc_Constante" type="PLAIN_TEXT" />
       <mapping pattern="limovtc" type="PLAIN_TEXT" />
       <mapping pattern="trash" type="PLAIN_TEXT" />
       <mapping ext="vierge" type="PLAIN_TEXT" />
       <mapping ext="014213245611111" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="051855252600015" type="PLAIN_TEXT" />
       <mapping ext="082584341411111" type="PLAIN_TEXT" />
       <mapping ext="1554733561" type="PLAIN_TEXT" />
@@ -49,6 +55,7 @@
       <mapping ext="1554734881" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="1554734942" type="PLAIN_TEXT" />
+      <mapping ext="1557764701" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="ppk" type="PLAIN_TEXT" />
