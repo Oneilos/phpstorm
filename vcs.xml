@@ -18,8 +18,16 @@
           <option name="url" value="https://github.com/AGWC/WAYGDS.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="nicolas_waynium" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://nicolas_waynium@bitbucket.org/waynium/way-bot.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\nicol\PhpstormProjects\" />
+    <option name="cloneParentDir" value="C:\Users\Nicolas\PhpstormProjects" />
   </component>
 </application>
