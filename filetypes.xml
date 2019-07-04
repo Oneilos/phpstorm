@@ -12,6 +12,9 @@
       <mapping pattern="way-lamp-onet-9" type="PLAIN_TEXT" />
       <mapping pattern="way-lamp-ovh-2" type="PLAIN_TEXT" />
       <mapping pattern="way-lamp-onet-4" type="PLAIN_TEXT" />
+      <mapping pattern="way-lamp-onet-3" type="PLAIN_TEXT" />
+      <mapping pattern="way-lamp-onet-2" type="PLAIN_TEXT" />
+      <mapping pattern="way-lamp-onet-1" type="PLAIN_TEXT" />
       <mapping pattern="ovh1" type="PLAIN_TEXT" />
       <mapping pattern="limovtc2" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.swp" type="PLAIN_TEXT" />
