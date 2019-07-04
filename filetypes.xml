@@ -9,11 +9,12 @@
       <mapping pattern="way-lamp-onet-10" type="PLAIN_TEXT" />
       <mapping pattern="1528117773-52002" type="PLAIN_TEXT" />
       <mapping pattern=".nfs0000000000024cad00000001" type="PLAIN_TEXT" />
+      <mapping pattern="way-lamp-onet-9" type="PLAIN_TEXT" />
       <mapping pattern="way-lamp-ovh-2" type="PLAIN_TEXT" />
       <mapping pattern="way-lamp-onet-4" type="PLAIN_TEXT" />
       <mapping pattern="ovh1" type="PLAIN_TEXT" />
       <mapping pattern="limovtc2" type="PLAIN_TEXT" />
-      <mapping pattern="zend_cache---internal-metadatas---Zaf_C_Soc_Constante" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess.swp" type="PLAIN_TEXT" />
       <mapping pattern="blackliste-mail-antispam" type="PLAIN_TEXT" />
       <mapping pattern="way-serv-ovh-1" type="PLAIN_TEXT" />
       <mapping pattern="t-limovtc" type="PLAIN_TEXT" />
@@ -28,7 +29,7 @@
       <mapping pattern="manifest" type="PLAIN_TEXT" />
       <mapping pattern="parmcom" type="PLAIN_TEXT" />
       <mapping pattern="toto" type="PLAIN_TEXT" />
-      <mapping pattern=".htaccess.swp" type="PLAIN_TEXT" />
+      <mapping pattern="zend_cache---internal-metadatas---Zaf_C_Soc_Constante" type="PLAIN_TEXT" />
       <mapping pattern="limovtc-8" type="PLAIN_TEXT" />
       <mapping pattern="pathfile" type="PLAIN_TEXT" />
       <mapping pattern="limovtc" type="PLAIN_TEXT" />
@@ -52,8 +53,8 @@
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="1553614861" type="PLAIN_TEXT" />
       <mapping ext="1553609282" type="PLAIN_TEXT" />
-      <mapping ext="vierge" type="PLAIN_TEXT" />
       <mapping ext="tml" type="PLAIN_TEXT" />
+      <mapping ext="vierge" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
