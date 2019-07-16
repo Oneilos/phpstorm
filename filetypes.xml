@@ -6,6 +6,7 @@
       <mapping pattern="ssh_4096_openssh" type="PLAIN_TEXT" />
       <mapping pattern="Zaf_Composant_CarteBancaire_Systempay" type="PLAIN_TEXT" />
       <mapping pattern="way-lamp-onet-1" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="1528117773-52002" type="PLAIN_TEXT" />
       <mapping pattern="response" type="PLAIN_TEXT" />
