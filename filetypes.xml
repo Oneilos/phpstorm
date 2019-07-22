@@ -5,41 +5,42 @@
       <mapping pattern="way-lamp-onet-test" type="PLAIN_TEXT" />
       <mapping pattern="ssh_4096_openssh" type="PLAIN_TEXT" />
       <mapping pattern="Zaf_Composant_CarteBancaire_Systempay" type="PLAIN_TEXT" />
-      <mapping pattern="way-lamp-onet-1" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="request" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="1528117773-52002" type="PLAIN_TEXT" />
+      <mapping pattern="way-lamp-onet-3" type="PLAIN_TEXT" />
+      <mapping pattern="test-limovtc" type="PLAIN_TEXT" />
       <mapping pattern="response" type="PLAIN_TEXT" />
       <mapping pattern="way-lamp-onet-9" type="PLAIN_TEXT" />
-      <mapping pattern="way-lamp-onet-3" type="PLAIN_TEXT" />
+      <mapping pattern="way-lamp-onet-1" type="PLAIN_TEXT" />
       <mapping pattern="way-lamp-ovh-2" type="PLAIN_TEXT" />
       <mapping pattern="way-lamp-onet-4" type="PLAIN_TEXT" />
       <mapping pattern="way-lamp-onet-2" type="PLAIN_TEXT" />
       <mapping pattern="ovh1" type="PLAIN_TEXT" />
       <mapping pattern="way-lamp-onet-10" type="PLAIN_TEXT" />
+      <mapping pattern="MigreCheckDtr" type="PLAIN_TEXT" />
       <mapping pattern="zend_cache---internal-metadatas---Zaf_C_Soc_Constante" type="PLAIN_TEXT" />
-      <mapping pattern="limovtc" type="PLAIN_TEXT" />
+      <mapping pattern="limovtc2" type="PLAIN_TEXT" />
       <mapping pattern="blackliste-mail-antispam" type="PLAIN_TEXT" />
       <mapping pattern="way-serv-ovh-1" type="PLAIN_TEXT" />
       <mapping pattern=".nfs0000000000024cad00000001" type="PLAIN_TEXT" />
-      <mapping pattern="MigreMajGds" type="PLAIN_TEXT" />
       <mapping pattern="t-limovtc" type="PLAIN_TEXT" />
       <mapping pattern="trash" type="PLAIN_TEXT" />
-      <mapping pattern="test-limovtc" type="PLAIN_TEXT" />
+      <mapping pattern="limovtc" type="PLAIN_TEXT" />
       <mapping pattern=".nfs0000000000020c1200000004" type="PLAIN_TEXT" />
       <mapping pattern=".pgbomit" type="PLAIN_TEXT" />
       <mapping pattern="zend_cache---Zaf_C_Soc_Constante" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern=".nfs000000000000f1af00000001" type="PLAIN_TEXT" />
       <mapping pattern="manifest" type="PLAIN_TEXT" />
       <mapping pattern="parmcom" type="PLAIN_TEXT" />
       <mapping pattern="toto" type="PLAIN_TEXT" />
       <mapping pattern="limovtc-8" type="PLAIN_TEXT" />
       <mapping pattern="pathfile" type="PLAIN_TEXT" />
-      <mapping pattern="request" type="PLAIN_TEXT" />
-      <mapping pattern="limovtc2" type="PLAIN_TEXT" />
-      <mapping pattern="MigreCheckDtr" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="MigreMajGds" type="PLAIN_TEXT" />
+      <mapping pattern=".nfs000000000000f1af00000001" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.swp" type="PLAIN_TEXT" />
+      <mapping pattern=".nfs000000000d3c000600000003" type="PLAIN_TEXT" />
       <mapping pattern="manifesst" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
